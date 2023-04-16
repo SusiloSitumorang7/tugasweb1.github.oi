@@ -1,4 +1,3 @@
-# tugasweb1.github.oi
 <!DOCTYPE html>
 <html>
 <head>
